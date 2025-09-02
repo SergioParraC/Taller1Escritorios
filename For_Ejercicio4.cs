@@ -29,7 +29,7 @@ namespace Taller
             }
             catch (Exception Ex)
             {
-                MessageBox.Show("Por favor ingrese un valor adecuado");
+                MessageBox.Show("Por favor, ingrese un valor numerico");
             }
         }
     }
